@@ -25,7 +25,7 @@
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/NX0S)
+- [NX0S](https://github.com/NX0S)
 
 ## Contributing
 
