@@ -12,7 +12,7 @@
 </p>
 
 ## Getting Started
-1. download rosepiné.zip (recommended) and install the included fonts OR install via Seelen-ui resource store
+1. download rosepiné.zip (recommended) and install the included fonts
    
 2.In your roaming folder in appdata navigate to the Seelenui folder
 
